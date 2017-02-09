@@ -1,0 +1,15 @@
+
+# Python Imaging Library (Fork)
+# https://pypi.python.org/pypi/Pillow/3.4.2
+Pillow==3.4.2
+
+
+scikit-image
+
+scikit-learn
+
+pyocr
+
+scipy
+numpy
+matplotlib
